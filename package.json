@@ -40,10 +40,10 @@
     "typecheck": "tsc --noEmit"
   },
   "devDependencies": {
-    "@antfu/ni": "^0.17.2",
+    "@antfu/ni": "^0.18.0",
     "@antfu/utils": "^0.5.2",
-    "@kirklin/eslint-config": "^0.1.1",
-    "@types/node": "^18.7.5",
+    "@kirklin/eslint-config": "^0.1.2",
+    "@types/node": "^18.7.15",
     "bumpp": "^8.2.1",
     "eslint": "^8.22.0",
     "esno": "^0.16.3",
