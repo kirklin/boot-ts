@@ -1,4 +1,4 @@
-# ts-boot
+# boot-ts
 
 ## Usage
 
