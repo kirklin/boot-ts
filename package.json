@@ -45,20 +45,22 @@
     "release": "bumpp && npm publish",
     "start": "esno src/index.ts",
     "test": "vitest",
-    "typecheck": "tsc --noEmit"
+    "typecheck": "tsc --noEmit",
+    "up": "taze major -I"
   },
   "devDependencies": {
     "@antfu/ni": "^0.18.8",
     "@kirklin/eslint-config": "^0.2.1",
-    "@types/node": "^18.11.9",
+    "@types/node": "^18.11.13",
     "bumpp": "^8.2.1",
-    "eslint": "^8.28.0",
+    "eslint": "^8.29.0",
     "esno": "^0.16.3",
-    "pnpm": "^7.17.1",
+    "pnpm": "^7.18.2",
     "rimraf": "^3.0.2",
-    "typescript": "^4.9.3",
-    "unbuild": "^1.0.1",
-    "vite": "^3.2.4",
-    "vitest": "^0.25.3"
+    "taze": "^0.8.4",
+    "typescript": "^4.9.4",
+    "unbuild": "^1.0.2",
+    "vite": "^4.0.1",
+    "vitest": "^0.25.7"
   }
 }
