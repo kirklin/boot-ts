@@ -2,7 +2,7 @@
   "name": "boot-ts",
   "type": "module",
   "version": "0.0.0",
-  "packageManager": "pnpm@7.30.3",
+  "packageManager": "pnpm@8.4.0",
   "description": "",
   "author": "Kirk Lin <https://github.com/kirklin>",
   "license": "MIT",
@@ -49,18 +49,18 @@
     "up": "taze major -r -w -I"
   },
   "devDependencies": {
-    "@antfu/ni": "^0.20.0",
-    "@kirklin/eslint-config": "^0.3.2",
-    "@types/node": "^18.15.8",
-    "bumpp": "^9.0.0",
-    "eslint": "^8.36.0",
+    "@antfu/ni": "^0.21.3",
+    "@kirklin/eslint-config": "^0.3.4",
+    "@types/node": "^20.0.0",
+    "bumpp": "^9.1.0",
+    "eslint": "^8.39.0",
     "esno": "^0.16.3",
-    "pnpm": "^7.30.3",
-    "rimraf": "^4.4.1",
-    "taze": "^0.9.1",
-    "typescript": "^5.0.2",
-    "unbuild": "^1.1.2",
-    "vite": "^4.2.1",
-    "vitest": "^0.29.7"
+    "pnpm": "^8.4.0",
+    "rimraf": "^5.0.0",
+    "taze": "^0.10.1",
+    "typescript": "^5.0.4",
+    "unbuild": "^1.2.1",
+    "vite": "^4.3.4",
+    "vitest": "^0.31.0"
   }
 }
