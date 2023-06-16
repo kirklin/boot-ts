@@ -17,9 +17,9 @@
 ### Install
 
 ```bash
-pnpm i
+npm i boot-ts
 ```
 
 ## License
 
-[MIT](./LICENSE) License &copy; 2022-PRESENT [Kirk Lin](https://github.com/kirklin)
+[MIT](./LICENSE) License &copy; 2023-PRESENT [Kirk Lin](https://github.com/kirklin)
