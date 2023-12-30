@@ -12,11 +12,9 @@ _description_
 > **Note**:
 > Replace `boot-ts`, `_description_` and `kirklin` globally to use this template.
 
-
 ## License
 
 [MIT](./LICENSE) License &copy; 2023-PRESENT [Kirk Lin](https://github.com/kirklin)
-
 
 <!-- Badges -->
 
