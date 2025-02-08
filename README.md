@@ -14,7 +14,7 @@ _description_
 
 ## License
 
-[MIT](./LICENSE) License &copy; 2023-PRESENT [Kirk Lin](https://github.com/kirklin)
+[MIT](./LICENSE) License &copy; [Kirk Lin](https://github.com/kirklin)
 
 <!-- Badges -->
 
