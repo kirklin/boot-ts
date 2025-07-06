@@ -1,3 +1,29 @@
 packages:
   - playground
+  - docs
+  - packages/*
   - examples/*
+catalogs:
+  cli:
+    "@antfu/ni": ^25.0.0
+    "@kirklin/eslint-config": ^5.0.0
+    bumpp: ^10.2.0
+    eslint: ^9.30.1
+    esno: ^4.8.0
+    lint-staged: ^16.1.2
+    pnpm: ^10.12.4
+    rimraf: ^6.0.1
+    simple-git-hooks: ^2.13.0
+    taze: ^19.1.0
+    typescript: ^5.8.3
+    unbuild: ^3.5.0
+    vite: ^7.0.2
+  dev:
+    "@kirklin/logger": ^0.1.1
+  testing:
+    vitest: ^3.2.4
+  types:
+    "@types/node": ^24.0.10
+onlyBuiltDependencies:
+  - esbuild
+  - simple-git-hooks
