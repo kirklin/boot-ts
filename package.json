@@ -2,7 +2,7 @@
   "name": "boot-ts",
   "type": "module",
   "version": "0.0.0",
-  "packageManager": "pnpm@10.14.0",
+  "packageManager": "pnpm@10.28.2",
   "description": "_description_",
   "author": "Kirk Lin <https://github.com/kirklin>",
   "license": "MIT",

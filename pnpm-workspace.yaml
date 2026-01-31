@@ -1,3 +1,7 @@
+shellEmulator: true
+
+trustPolicy: no-downgrade
+
 packages:
   - playground
   - docs
@@ -5,26 +9,26 @@ packages:
   - examples/*
 catalogs:
   cli:
-    "@antfu/ni": ^25.0.0
-    "@kirklin/eslint-config": ^5.0.0
-    bumpp: ^10.2.2
-    eslint: ^9.33.0
-    eslint-plugin-format: ^1.0.1
+    "@antfu/ni": ^28.2.0
+    "@kirklin/eslint-config": ^7.0.0
+    bumpp: ^10.4.0
+    eslint: ^9.39.2
+    eslint-plugin-format: ^1.3.1
     esno: ^4.8.0
-    lint-staged: ^16.1.5
-    pnpm: ^10.14.0
-    rimraf: ^6.0.1
+    lint-staged: ^16.2.7
+    pnpm: ^10.28.2
+    rimraf: ^6.1.2
     simple-git-hooks: ^2.13.1
-    taze: ^19.1.0
-    typescript: ^5.9.2
-    unbuild: ^3.6.0
-    vite: ^7.1.1
+    taze: ^19.9.2
+    typescript: ^5.9.3
+    unbuild: ^3.6.1
+    vite: ^7.3.1
   dev:
     "@kirklin/logger": ^0.1.1
   testing:
-    vitest: ^3.2.4
+    vitest: ^4.0.18
   types:
-    "@types/node": ^24.2.1
+    "@types/node": ^25.1.0
 onlyBuiltDependencies:
   - esbuild
   - simple-git-hooks
